@@ -1,0 +1,23 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "hw32",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.3.6",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "forever": "^0.15.1",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "queue": "^4.0.0",
+    "request": "^2.72.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
